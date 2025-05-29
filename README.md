@@ -32,7 +32,8 @@ There are 3 notebooks available here to showcase work related to the above quest
 3. [Salary.ipynb](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/Salary.ipynb)
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
-1. [Salary_ML.py](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/Salary_ML.py)
+
+[Salary_ML.py](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/Salary_ML.py)
 
 ## Results<a name="results"></a>
 
