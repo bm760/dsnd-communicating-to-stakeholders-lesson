@@ -27,8 +27,12 @@ The full set of files related to this course are owned by Udacity, so they are n
 ## File Descriptions <a name="files"></a>
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+1. [HowToBreakIntoTheField.ipynb](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/HowToBreakIntoTheField.ipynb)
+2. [BootcampStats.ipynb](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/BootcampStats.ipynb)
+3. [Salary.ipynb](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/Salary.ipynb)
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+1. [Salary_ML.py](https://github.com/bm760/dsnd-communicating-to-stakeholders-lesson/blob/main/Salary_ML.py)
 
 ## Results<a name="results"></a>
 
